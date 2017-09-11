@@ -1,0 +1,3 @@
+[submodule "atsd"]
+	path = atsd
+	url = https://github.com/axibase/atsd
